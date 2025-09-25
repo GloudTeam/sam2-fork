@@ -54,6 +54,7 @@
 
 - `.yaml` 파일 작성하기
   - 학습에 사용되는 각종 parameter 들을 hydra 로 instantiate
+  - `sam2-fork/sam2/configs` 폴더에 새로운 yaml 파일 저장하면 됨
   - 참조 : https://github.com/GloudTeam/veneer-editor/blob/main/apps/python-server/src/veneer/models/sam2/configs/train_segment_every_teeth.yaml
 
 - train command
